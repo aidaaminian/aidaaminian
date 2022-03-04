@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Aida Aminian
+
+- 👀 I'm interested in computer engineering.
+- 🌱 I'm currently learning many things, hard to categorize them here :)
+- 💬 Ask me about anything related to computers, I am happy to help. 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidaaminian&show_icons=true&hide=contribs&theme=calm)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidaaminian&layout=compact&theme=calm)](https://github.com/aidaaminian/github-readme-stats)
+
 
 <!--
 **aidaaminian/aidaaminian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
